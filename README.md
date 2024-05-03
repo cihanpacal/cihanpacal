@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cihanpacal
 - 👀 I’m interested in java
-- 🌱 I’m currently learning android programming
 .
 
 <!---
